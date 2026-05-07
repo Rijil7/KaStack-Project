@@ -48,5 +48,5 @@ A `Dockerfile` is provided for easy deployment to cloud services like Render, Fl
 
 ## Demo Links
 
-- **Loom Video Demo**: https://kastack-project-fnf8kfufehyr6wrz72qwrv.streamlit.app/
-- **Live Cloud URL**: [Placeholder for Link]
+- **Loom Video Demo**: 
+- **Live Cloud URL**: https://kastack-project-fnf8kfufehyr6wrz72qwrv.streamlit.app/
