@@ -1,0 +1,8 @@
+pandas
+sentence-transformers
+chromadb
+spacy
+transformers
+torch
+streamlit
+tqdm

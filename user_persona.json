@@ -1,0 +1,25 @@
+{
+  "habits": [
+    "I love to swim, play in the sand, and eat ice cream.  ",
+    "I love to read a good mystery novel.",
+    "I love to take them to the park and play soccer with them.",
+    "I like to read all kinds of books, but I especially enjoy historical fiction and fantasy novels.",
+    "I like to make models of characters from video games and movies."
+  ],
+  "personal_facts": [
+    "I am a teacher.",
+    "I have a nickname that my friends call me.",
+    "I am a doctor.",
+    "I have a red headed brother and he has had two of them.",
+    "I have a parrot named Todd."
+  ],
+  "personality_traits": [
+    "friendly",
+    "outgoing"
+  ],
+  "communication_style": {
+    "avg_word_count": 11.3,
+    "tone": "enthusiastic",
+    "emoji_usage": "low"
+  }
+}
